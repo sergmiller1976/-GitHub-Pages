@@ -1,4 +1,3 @@
-My name is Sergey
-I am from RUSSIA
-I wont QA engineer
-"D:\Нетология\Тестирование\Курс Тестирование ПО с нуля\GIT\д.з. № 5\git-2-homeworks-pr\foto.jpg"
+1. My name is Sergey
+2. I am from RUSSIA
+3. I wont QA engineer
